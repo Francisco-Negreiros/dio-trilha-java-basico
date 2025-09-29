@@ -4,7 +4,7 @@ public class ExemploForEach {
 	
         //Forma abreviada
 	    for(String aluno : alunos) {
-	        System.out.println(alunos);
+	        System.out.println("O nome do aluno é " + aluno);
 	}
     }
 }
